@@ -183,6 +183,13 @@ h1 {
     grid-area: img5;
 }
 
+footer {
+    text-align: center;
+    background-color: black;
+    color: #fff;
+    padding: 15px;
+}
+
 
 
 
